@@ -45,7 +45,7 @@ This project analyzes customer churn data using **SQL Server** for data transfor
 
 ## 📷 Dashboard Preview
 
-![Churn Dashboard](Images/churn_dashboard_screenshot.png)
+![Churn Dashboard](https://github.com/Jayanth-0510/Advanced-Churn-Analysis-SQL-PowerBI/blob/main/Advanced%20Customer%20Churn%20Dashboard%20screenshop.png)
 
 ---
 
