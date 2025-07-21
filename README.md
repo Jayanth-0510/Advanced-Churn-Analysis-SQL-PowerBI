@@ -5,12 +5,18 @@ This project analyzes customer churn data using **SQL Server** for data transfor
 ---
 
 ## 📁 Project Structure
+
+
+```
 ├── Dataset/
-│ └── Customer_Churn_Advanced.xlsx
+│   └── Customer_Churn_Advanced.xlsx
 ├── Dashboard/
-│ └── Customer_Churn_Advanced.pbix
+│   └── Customer_Churn_Advanced.pbix
 ├── Images/
-│ └── churn_dashboard_screenshot.png
+│   └── churn_dashboard_screenshot.png
+├── README.md
+```
+
 
 
 ---
