@@ -62,7 +62,7 @@ This project analyzes customer churn data using **SQL Server** for data transfor
 
 ## ⚙️ How to Run This Project
 
-1. **Clone this repository** or [Download ZIP](https://github.com/)
+1. **Clone this repository** or [Download ZIP](https://github.com/Jayanth-0510/Advanced-Churn-Analysis-SQL-PowerBI/blob/main/churn_customers.zip)
 2. **Open SSMS** and:
    - Create a new database (e.g., `ChurnDB`)
    - Import `Customer_Churn_Advanced.xlsx` into a new table
