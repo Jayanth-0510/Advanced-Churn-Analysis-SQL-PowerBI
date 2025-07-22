@@ -89,7 +89,7 @@ This project analyzes customer churn data using **SQL Server** for data transfor
 
 **Jayanth Neeleswara**  
 📌 Aspiring Data Analyst | Skills: SQL • Excel • Power BI  
-📫 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+📫 [LinkedIn](https://www.linkedin.com/in/neeleswara-jayanth/) | [GitHub](https://github.com/jayanth-0510)
 
 ---
 
